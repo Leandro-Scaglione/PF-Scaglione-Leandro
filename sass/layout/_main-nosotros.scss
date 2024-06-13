@@ -1,0 +1,20 @@
+// MAIN NOSOTROS
+// main{
+//      section{   
+
+.container {
+    .main-section-nosotros {
+        margin: auto;
+    }
+
+    section {
+        div {
+            .conocenos-images {
+                width: 150px;
+                height: auto;
+                border-radius: $borde-redonde;
+            }
+        }
+    }
+
+}

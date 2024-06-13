@@ -1,0 +1,31 @@
+// IMPORT
+
+// BASE
+
+@import "../sass/base/reset";
+@import "../sass/base/main";
+
+// Variables 
+
+@import "../sass/utilities/variables";
+
+// LAYOUT
+
+@import "../sass/layout/header";
+@import "../sass/layout/footer";
+@import "../sass/layout/main-index";
+@import "../sass/layout/main-nosotros";
+@import "../sass/layout/main-galeria";
+@import "../sass/layout/main-contacto";
+@import "../sass/layout/main-servicios";
+
+// UTILITIES
+
+// Media
+
+@import "../sass/media-queries/media768";
+@import "../sass/media-queries/media-320";
+
+// Fonts
+
+@import "../sass/utilities/fonts";
